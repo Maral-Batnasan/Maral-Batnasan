@@ -1,4 +1,4 @@
-## 👋Hi there! I’m Maral, a data enthusiast with a passion for sustainability and creativity!
+## 🌍 Hi there! I’m Maral, a data enthusiast with a passion for sustainability and creativity!
 
 📚 **Education**: Pursuing a Master's in Management Analytics at McGill University, specializing in machine learning and enterprise data science.
 
