@@ -8,8 +8,7 @@ Aside from work and studying, I’m passionate about quality education, equal op
 
 🌱 Skills & Tools: Proficient in Python, R, SQL, Power BI, and a range of machine learning techniques.
 
-🎨 **Interests**: When I’m not crunching numbers, you’ll find me refining my charcoal sketching, bouldering with friends, playing volleyballs, or brainstorming creative sustainability ideas.
+🎨 Interests: When I’m not crunching numbers, you’ll find me refining my charcoal sketching, bouldering with friends, playing volleyballs, or brainstorming creative sustainability ideas.
 
-Based in Montréal, Canada
-
-maralmaa.batnasan@gmail.com
+📍Based in Montréal, Canada
+✉️ maralmaa.batnasan@gmail.com
