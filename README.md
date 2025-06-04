@@ -10,6 +10,5 @@ Aside from work and studying, I’m passionate about quality education (particul
 
 🎨 **Interests**: When I’m not crunching numbers, you’ll find me refining my charcoal sketching, bouldering with friends, playing volleyballs, or brainstorming creative sustainability ideas.
 
-📍 Based in Montréal, Canada
-
+📍 Based in Montréal, Canada\
 ✉️ maralmaa.batnasan@gmail.com
